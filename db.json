@@ -1,0 +1,61 @@
+{
+    "alerts": [{
+            "id": 1,
+            "text": "This is the first update",
+            "frequency": "hourly",
+            "emailData": [
+                "john@abc.com",
+                "jenny@abc.com"
+            ]
+        },
+        {
+            "id": 2,
+            "text": "This is the second update",
+            "frequency": "hourly",
+            "emailData": [
+                "alex@abc.com",
+                "amar@abc.com"
+            ]
+        },
+        {
+            "id": 3,
+            "text": "This is the third update",
+            "frequency": "hourly",
+            "emailData": [
+                "brad@abc.com",
+                "bish@abc.com"
+            ]
+        },
+        {
+            "id": 43,
+            "text": "abc",
+            "frequency": "Daily",
+            "emailData": "asd@jbg.com"
+        },
+        {
+            "text": "This is a new deployment",
+            "frequency": "Hourly",
+            "emailData": "ab@wec.com",
+            "id": 44
+        },
+        {
+            "text": "this is a alert ",
+            "frequency": "Hourly",
+            "emailData": [
+                "pabitra@gmail.com",
+                "sumit@gmail.com"
+            ],
+            "id": 45
+        },
+        {
+            "text": "this is an important notifiation",
+            "frequency": "Hourly",
+            "emailData": [
+                "sumit@gmail.com",
+                "mamta@gmail.com",
+                "pabitra@gmail.com"
+            ],
+            "id": 46
+        }
+    ]
+}
